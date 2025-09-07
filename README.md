@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/azcomp2000">⬅️ Назад к главному портфолио</a> | 
+  <a href="https://github.com/azcomp2000/AI-Predator-Cognitive-Engine">Хищник</a> | 
+  <b>AI Viral Clip Factory (этот проект)</b> | 
+  <a href="https://github.com/azcomp2000/HH-Recon-Cyborg">HH Recon Cyborg</a> | 
+  <a href="https://github.com/azcomp2000/YouTube-SEO-Analyzer">YouTube SEO Analyzer</a>
+</p>
+
+---
+
 # Мультимодальный AI-продюсер ("Viral Clip Factory")
 
 **Статус:** Рабочий продукт.
